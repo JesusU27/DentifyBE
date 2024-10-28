@@ -1,0 +1,6 @@
+@Dentify_HostAddress = http://localhost:5109
+
+GET {{Dentify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
